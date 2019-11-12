@@ -17,6 +17,4 @@
 <P>De todo eso lo que mas me gusta es Jugar videojuegos</p>
 
 </ul>
-</BODY>
 
-</HTML>
